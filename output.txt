@@ -1,0 +1,12 @@
+L 5, 3
+  L1D miss, L2 miss
+  Place in L1D set 0, L2 set 0
+I 4, 4
+  L1I miss, L2 hit
+  Place in L1I set 0, L2 set 0
+I 4, 4
+  L1I hit
+  Place in L1I set 0
+S 0, 1, ab
+  L1D hit, L2 hit
+  Stored in L1D, L2, RAM

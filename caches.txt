@@ -1,0 +1,28 @@
+   ~~~~~~~~~~~~L1I~~~~~~~~~~~
+--------------Set0------------- 
+Tag     Time    v        Data
+0000000  2     true	    67458B6BC6237B32
+        0     false	    0000000000000000
+
+   ~~~~~~~~~~~~L1D~~~~~~~~~~~
+--------------Set0------------- 
+Tag     Time    v        Data
+0000000  1     true	    AB458B6BC6237B32
+        0     false	    0000000000000000
+
+   ~~~~~~~~~~~~L2~~~~~~~~~~~
+--------------Set0------------- 
+Tag     Time    v        Data
+000000  1     true	    AB458B6BC6237B32
+        0     false	    0000000000000000
+--------------Set1------------- 
+Tag     Time    v        Data
+        0     false	    0000000000000000
+        0     false	    0000000000000000
+
+L1I-hits:1 L1I-misses:1 L1I-evictions:0
+L1D-hits:1 L1D-misses:1 L1D-evictions:0
+L2-hits:2 L2-misses:1 L2-evictions:0
+-Total hits:4 
+-Total misses:3 
+-Total evictions:0
